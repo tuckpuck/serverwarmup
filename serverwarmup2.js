@@ -7,8 +7,8 @@ app.listen(8000, function() {
 
 app.use(express.static("public"));
 
-app.get("/:poop", sfunction(req, res) {
-  if(req.params.poop === "api") {
+app.get("/:hello", function(req, res) {
+  if(req.params.hello === "api") {
     res.send("hello from api");
   } else {
     res.status(404);
