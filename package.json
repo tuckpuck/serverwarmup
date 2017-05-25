@@ -1,0 +1,24 @@
+{
+  "name": "serverwarmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverwarmup.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuckpuck/serverwarmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuckpuck/serverwarmup/issues"
+  },
+  "homepage": "https://github.com/tuckpuck/serverwarmup#readme"
+}
